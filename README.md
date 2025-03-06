@@ -25,8 +25,3 @@ The goal of this analysis is to determine whether the selling price of cars has 
 - All analyzed cars have experienced a price decrease.
 - No instances were found where a car’s selling price exceeded its original price.
 - Market trends indicate depreciation as a primary factor in price reduction.
-
-## Conclusion
-
-This analysis provides insights into car price depreciation trends, helping buyers and sellers understand market behavior better.
-
